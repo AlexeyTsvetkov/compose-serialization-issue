@@ -1,5 +1,7 @@
 ## Compose serialization issue
 
+See https://github.com/JetBrains/compose-jb/issues/46
+
 ```
 ./gradlew :without-compose:run
 # OK
